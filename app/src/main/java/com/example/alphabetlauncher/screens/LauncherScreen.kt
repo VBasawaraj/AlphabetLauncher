@@ -173,10 +173,7 @@ private fun HomeScreen(
                     .padding(vertical = 8.dp, horizontal = 14.dp),
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                Text(
-                    text = "🔍",
-                    fontSize = 13.sp
-                )
+
                 Text(
                     text = "  Swipe up or tap to search",
                     color = Color.White.copy(alpha = 0.6f),
